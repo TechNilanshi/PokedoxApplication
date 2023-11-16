@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PokemonApplication</string>
+    <string name="title_pok_dex">Pokemon</string>
+    <string name="sub_title">Search for any Pokemon that exists on the planet</string>
+    <string name="hint_name_or_number">Name or Number</string>
+    <string name="image_description">image description</string>
+    <string name="button_retry">Retry</string>
+    <string name="read_more">read more</string>
+    <string name="m">m</string>
+    <string name="height">Height</string>
+    <string name="kg">kg</string>
+    <string name="weight">Weight</string>
+    <string name="gender_s">Gender(s)</string>
+    <string name="egg_groups">Egg Groups</string>
+    <string name="abilities">Abilities</string>
+    <string name="types">Types</string>
+    <string name="weak_against">Weak Against</string>
+    <string name="filters">Filters</string>
+    <string name="reset">Reset</string>
+    <string name="apply">Apply</string>
+    <string name="type">Type</string>
+    <string name="normal_5_more">(Normal + 5 More)</string>
+    <string name="gender">Gender</string>
+    <string name="stats">Stats</string>
+
+</resources>
